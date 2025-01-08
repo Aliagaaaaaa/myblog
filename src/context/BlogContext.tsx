@@ -30,7 +30,7 @@ export function BlogProvider({ children }: { children: React.ReactNode }) {
             translations: {
               en: {
                 title: 'How to Use My Custom FACEIT API for Nightbot Commands on Twitch',
-                excerpt: 'Learn how to set up Nightbot commands using my custom FACEIT API to provide real-time stats on Twitch, now with ELO display support.',
+                excerpt: 'Learn how to set up Nightbot commands using my custom FACEIT API to provide real-time stats on Twitch.',
                 content: [
                   {
                     type: 'paragraph',
