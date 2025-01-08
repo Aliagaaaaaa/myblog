@@ -25,7 +25,7 @@ export function BlogProvider({ children }: { children: React.ReactNode }) {
       try {
         const samplePosts: BlogPost[] = [
           {
-            id: '3',
+            id: '1',
             defaultLanguage: 'en',
             translations: {
               en: {
